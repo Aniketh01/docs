@@ -128,7 +128,8 @@ exports.metalsmith = function() {
         sortBy: 'order',
         orderDynamicCollections: [
           'connectivity',
-          'raspberry-pi'
+          'raspberry-pi',
+          'wholesale'
 				]
       },
       datasheet: {
